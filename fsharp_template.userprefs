@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5F76BE49-3043-8F67-79BE-0F950D2E0BC8}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fslib/Component1.fs">
+    <Files>
+      <File FileName="Assets/Editor/BasicTest.cs" Line="1" Column="1" />
+      <File FileName="fslib/Component1.fs" Line="11" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

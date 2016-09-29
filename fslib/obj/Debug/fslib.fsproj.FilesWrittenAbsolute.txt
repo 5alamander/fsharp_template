@@ -1,0 +1,4 @@
+/Users/Salamander/Desktop/unity_space/fsharp_template/Assets/_bin/fslib.dll.mdb
+/Users/Salamander/Desktop/unity_space/fsharp_template/Assets/_bin/fslib.dll
+/Users/Salamander/Desktop/unity_space/fsharp_template/fslib/obj/Debug/fslib.dll
+/Users/Salamander/Desktop/unity_space/fsharp_template/fslib/obj/Debug/fslib.dll.mdb
