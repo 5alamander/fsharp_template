@@ -36,19 +36,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="FSharp.Core">
-      <HintPath>..\..\..\..\src\fs\FSharp-Unity-dlls\FSharp.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="mscorlib">
-      <HintPath>..\..\..\..\src\fs\FSharp-Unity-dlls\mscorlib.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine">
       <HintPath>..\..\..\..\..\..\Applications\Unity\Unity.app\Contents\Frameworks\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Core">
+      <HintPath>FSharp-Unity-dlls\FSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>FSharp-Unity-dlls\mscorlib.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Component1.fs" />
-    <Compile Include="Script.fsx" />
+    <Compile Include="TestModule.fs" />
   </ItemGroup>
   <Import Project="$(FSharpTargetsPath)" />
 </Project>
